@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5">
+  <race>
+    <name>Gerudo</name>
+    <size>M</size>
+    <trait>
+      <name>Ability Score Increase</name>
+      <text>You may increase one ability score by 2 and another by 1, or three different ability scores by 1.</text>
+    </trait>
+    <trait>
+      <name>Desert Adaptation</name>
+      <text>You are acclimated to hot and arid environments. You can go without water for up to 24 hours without suffering exhaustion, and you have advantage on saving throws against extreme heat.</text>
+    </trait>
+    <trait>
+      <name>Desert Warrior</name>
+      <text>You have proficiency in the scimitar and shortbow.</text>
+    </trait>
+    <trait>
+      <name>Warrior's Endurance</name>
+      <text>When you take the Dodge action, you can also make a weapon attack as a bonus action.</text>
+    </trait>
+    <trait>
+      <name>Source</name>
+      <text>Custom made for the Zelda universe.</text>
+    </trait>
+    <environment>Desert</environment>
+  </race>
+</compendium>
